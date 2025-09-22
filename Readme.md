@@ -15,7 +15,7 @@ This version is a **modular, Pythonic implementation** of Fermat's Near Miss Fin
 ## Running the Program
 Use the following syntax:
 ```bash
-python fermat_near_miss.py <n> <k>
+python fermat_near_miss-finder.py <n> <k>
 ```
 Where:
 - `<n>`: exponent between 3 and 11
